@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 200 200;" xmlns="http://www.w3.org/2000/svg">
+  <style type="text/css">
+	.st0{fill:#606161;}
+</style>
+  <rect x="0.972" y="54.913" class="st0" width="62.055" height="3.851" style="fill: rgb(255, 255, 255);"/>
+  <rect x="4.108" y="34.393" class="st0" width="6.107" height="14.743" style="fill: rgb(255, 255, 255);"/>
+  <rect x="16.541" y="31.421" class="st0" width="6.107" height="17.715" style="fill: rgb(255, 255, 255);"/>
+  <rect x="28.918" y="40.279" class="st0" width="6.107" height="8.857" style="fill: rgb(255, 255, 255);"/>
+  <rect x="41.461" y="31.422" class="st0" width="6.107" height="17.715" style="fill: rgb(255, 255, 255);"/>
+  <rect x="53.84" y="19.374" class="st0" width="6.107" height="29.763" style="fill: rgb(255, 255, 255);"/>
+  <g transform="matrix(0.550136, 0, 0, 0.550136, -23.343771, -23.811405)">
+    <path class="st0" d="M61.1,85.1c0,2.9-2.5,5.3-5.6,5.3s-5.6-2.4-5.6-5.3s2.5-5.3,5.6-5.3S61.1,82.2,61.1,85.1" style="fill: rgb(255, 255, 255);"/>
+    <path class="st0" d="M78.4,68.8c0,2.9-2.5,5.3-5.6,5.3s-5.6-2.4-5.6-5.3c0-2.9,2.5-5.3,5.6-5.3S78.4,65.8,78.4,68.8" style="fill: rgb(255, 255, 255);"/>
+    <path class="st0" d="M106.5,95.4c0,2.9-2.5,5.3-5.6,5.3c-3.1,0-5.6-2.4-5.6-5.3s2.5-5.3,5.6-5.3C104,90.1,106.5,92.5,106.5,95.4" style="fill: rgb(255, 255, 255);"/>
+    <path class="st0" d="M146,58.1c0,2.9-2.5,5.3-5.6,5.3c-3.1,0-5.6-2.4-5.6-5.3c0-2.9,2.5-5.3,5.6-5.3C143.4,52.8,146,55.2,146,58.1" style="fill: rgb(255, 255, 255);"/>
+  </g>
+  <polygon class="st0" points="32.164 29.662 16.651 14.973 7.683 23.5 6.638 22.509 16.651 13.047 32.164 27.736 53.345 7.711 54.391 8.645" style="fill: rgb(255, 255, 255);"/>
+</svg>

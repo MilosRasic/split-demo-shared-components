@@ -1,0 +1,27 @@
+{
+  "name": "@split-demo/shared-components",
+  "version": "1.0.0",
+  "description": "split Deployment Demo Shared Components",
+  "main": "index.js",
+  "scripts": {
+    "precommit": "npm test && lint-staged && npm run bump && git add --all",
+  },
+  "lint-staged": {
+    "*.{js,jsx}": [
+      "prettier --config .prettierrc --write"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MilosRasic/split-demo-shared-components"
+  },
+  "author": "Miloš Rašić <milos.rasic@gmail.com> (https://github.com/MilosRasic)",
+  "license": "MIT",
+  "dependencies": {
+    "@split-demo/shared-deps": "latest",
+  },
+  "devDependencies": {
+    "@split-demo/shared-build-deps": "latest",
+    "@split-demo/shared-config": "latest"
+  }
+}
