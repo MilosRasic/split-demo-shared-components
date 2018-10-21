@@ -4,7 +4,7 @@
   "description": "split Deployment Demo Shared Components",
   "main": "index.js",
   "scripts": {
-    "precommit": "npm test && lint-staged && npm run bump && git add --all",
+    "precommit": "npm test && lint-staged && npm run bump && git add --all"
   },
   "lint-staged": {
     "*.{js,jsx}": [
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MilosRasic/split-demo-shared-components"
+    "url": "https://github.com/MilosRasic/split-demo-shared-componentsgre"
   },
   "author": "Miloš Rašić <milos.rasic@gmail.com> (https://github.com/MilosRasic)",
   "license": "MIT",
   "dependencies": {
-    "@split-demo/shared-deps": "latest",
+    "@split-demo/shared-deps": "latest"
   },
   "devDependencies": {
     "@split-demo/shared-build-deps": "latest",
